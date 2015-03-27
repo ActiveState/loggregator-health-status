@@ -33,7 +33,9 @@ and the expected results :
 ```
 
 To add more endpoints updated the ```endpoints.csv``` like below:
-```v2/app/APPGUID/instances/INSTANCE```
+```
+v2/app/APPGUID/instances/INSTANCE
+```
 
 
 
