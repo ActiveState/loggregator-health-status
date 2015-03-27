@@ -36,7 +36,6 @@ To add more endpoints updated the ```endpoints.csv``` like below:
 ```
 v2/app/APPGUID/instances/INSTANCE
 ```
-
 Available variables for query uri:
 
 ```
@@ -45,4 +44,5 @@ Available variables for query uri:
 	ORGGUID   
 	SPACEGUID 
 ```
+
 

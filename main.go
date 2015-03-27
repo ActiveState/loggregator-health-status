@@ -44,6 +44,7 @@ func main() {
 	}
 
 	// Format in tab-separated columns with a tab stop of 5.
+
 	w := new(tabwriter.Writer)
 	w.Init(os.Stdout, 5, 0, 1, ' ', tabwriter.AlignRight)
 	fmt.Fprintln(w, "status\t\tquery")
