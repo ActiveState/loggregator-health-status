@@ -1,0 +1,12 @@
+"info"
+"v2/apps/APPGUID/instances/INSTANCE"
+"v2/config/environment_variable_groups/running"
+"v2/organizations/ORGGUID/spaces?inline-relations-depth=1"
+"v2/service_plans"
+"v2/config/feature_flags"
+"v2/service_plan_visibilities"
+"v2/quota_definitions"
+"v2/service_brokers"
+"v2/organizations"
+"thisisExampleOF/SPACEGUID"
+
